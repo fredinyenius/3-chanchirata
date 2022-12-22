@@ -4,7 +4,7 @@
     const foodsFoods = document.getElementById('foodsFoods');
 
     const fetchApi = async () => {
-      const response = await fetch('https://github.com/fredinyenius/semana--08/3-chanchirata/api/data.json');
+      const response = await fetch('https://fredinyenius.github.io/3-chanchirata/api/data.json');
       const data = await response.json();
 
     comidas.forEach((element) => {

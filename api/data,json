@@ -1,0 +1,52 @@
+[   
+{
+      "id": 1,
+      "name": "Ají de Gallina",
+      "description": "El ají de gallina es un plato típico de la gastronomía peruana, concretamente de la costa, ​ que consiste en un ají o crema espesa con pechuga de gallina deshilachada. Esta crema es servida con papas cocidas, y en ocasiones con arroz blanco. Es común reemplazar la gallina por pollo.",
+      "urlImage": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Ají_de_gallina.jpg/800px-Ají_de_gallina.jpg",
+      "urlRecipe": "https://www.recetasnestle.com.pe/recetas/aji-de-gallina-2"
+    },
+    {
+      "id": 2,
+      "name": "Ceviche",
+      "description": "El Cebiche es un plato muy nutritivo que en promedio aporta aproximadamente entre 400 a 500 kilocalorías, proteínas de alta calidad en el pescado, carbohidratos de fácil digestión como los encontrados en el camote y el maíz choclo, y verduras saludables como la cebolla, culantro, lechuga, ají limo”, explica.",
+      "urlImage": "https://t2.rg.ltmcdn.com/es/posts/7/4/1/ceviche_peruano_18147_600.webp",
+      "urlRecipe": "https://www.recetasnestle.com.pe/recetas/aji-de-gallina-2"
+    },
+    {
+      "id": 3,
+      "name": "Causa Limeña",
+      "description": "Este plato es elaborado en base a papa amarilla, limón, ají, lechuga, choclo, queso fresco, huevo cocido, palta y aceitunas negras. Esta preparación admite diversas variantes, como causa rellena de atún, de pollo, de mariscos u otras variedades de carnes blancas. Se sirve con un ligero baño de mayonesa.",
+      "urlImage": "https://t2.rg.ltmcdn.com/es/posts/8/6/2/causa_limena_31268_orig.jpg",
+      "urlRecipe": "https://www.recetasnestle.com.pe/recetas/aji-de-gallina-2"
+    },
+    {
+      "id": 4,
+      "name": "Rocoto Relleno",
+      "description": "Agrega la carne picada, la cebolla, el orégano, el comino, el ají panca, azúcar, sal y pimienta. Finalmente, incluye el maní tostado. Una vez relleno el rocoto, agrega láminas de queso y cubre con la misma tajada superior del rocoto, a modo de tapa.",
+      "urlImage": "https://i0.wp.com/comidasdelperu.com/wp-content/uploads/2021/08/Receta-Rocoto-Relleno-Peruano1.jpg?fit=1000%2C563&ssl=1",
+      "urlRecipe": "https://www.recetasnestle.com.pe/recetas/aji-de-gallina-2"
+    },
+    {
+      "id": 5,
+      "name": "FAISAN",
+      "description": "El faisán es el ave paradigma de la suntuosidad en la mesa de Navidad. Durante siglos fue considerada un ave sólo al alcance de las clases más pudientes, las únicas que disponían de terrenos de caza.",
+      "urlImage": "https://cdn.shopify.com/s/files/1/0078/5730/7737/articles/carne-de-faisan-tips.jpg?v=1589224848",
+      "urlRecipe": "https://www.recetasnestle.com.pe/recetas/aji-de-gallina-2"
+    },
+    {
+      "id": 6,
+      "name": "Caldo blanco",
+      "description": "La mejor receta de caldo blanco de Arequipa o caldo de pascua arequipeño ya que se estila preparar esta sopa durante los domingos en la Semana Santa.",
+      "urlImage": "https://recetas.7maravillasgastronomicas.com/wp-content/uploads/2011/05/caldoblancoarequipeno.jpg",
+      "urlRecipe": "https://recetas.7maravillasgastronomicas.com/sopas/caldo-blanco-arequipeno/"
+    },
+    {
+      "id": 7,
+      "name": " Chifa Aeropuerto",
+      "description": "La chifa aeropuerto es un platillo que nace de la fusión entre la comida china y la comida peruana. Se puede decir que es uno de los platos más consumidos en Perú. Es muy similar arroz chaufa, pero adicionalmente tiene tallarines chinos y frijol chino. Se acostumbra a consumir como plato principal.",
+      "urlImage": "https://iperu.pe/wp-content/uploads/2019/08/chifa-aeropuerto_800x534-640x427.jpg",
+      "urlRecipe": "https://iperu.pe/recetas/platos/chifa-aeropuerto/"
+    }
+]
+  
